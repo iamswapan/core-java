@@ -2,10 +2,7 @@ package com.java8;
 
 
 import java.net.URLEncoder;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Collector;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
@@ -81,6 +78,8 @@ public class Basic1 {
         ArrayList<Integer> ar=new ArrayList<>();
         ar.add(1);
         ar.add(2);
+        ar.add(2);
+        ar.add(2);
         ar.add(3);
         ar.add(4);
         ar.add(5);
@@ -88,6 +87,22 @@ public class Basic1 {
         ar.add(7);
         System.out.println("================="+ar);
 
+        HashSet hs=ar.stream().filter(v->v%2==0).collect(Collectors.toCollection(HashSet::new));
+
+        System.out.println("filter================="+ar);
+        System.out.println("filter================="+hs);
+
+        System.out.println("partiation==========="+ar.stream().filter(e->e>2).collect(Collectors.partitioningBy(e->e>4)));
+        System.out.println("map distinct value change==========" + ar.stream().map(e -> e * 5).distinct().collect(Collectors.toCollection(ArrayList::new)));
+        // allMatch() validate the condition for all the elemnts if it true for all then return TRUE else return FALSE
+        System.out.println("map all match=========="+ar.stream().map(e->e).allMatch(e -> e > 1));
+        System.out.println("map limit=========="+ar.stream().map(e->e).limit(2).collect(Collectors.toCollection(ArrayList::new)));
+        /////// Find stat of any list or collection data
+        DoubleSummaryStatistics ds=ar.stream().mapToDouble(e->e).summaryStatistics();
+        System.out.println("max="+ds.getMax());
+        System.out.println("min="+ds.getMin());
+        System.out.println("avg="+ds.getAverage());
+        System.out.println("count="+ds.getCount());
     }
     public ArrayList setListValue(ArrayList al){
         al=new ArrayList<Integer>();
