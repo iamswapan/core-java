@@ -52,7 +52,7 @@ public class MyAkamaiTokenHelper {
         // pass start time timestamp in seconds
         tokenConfig.put("start_time", startTime / 1000);
         // TODO: check if "window_seconds" is necessary. For now works without it
-        tokenConfig.put("window_seconds", "6000");
+        tokenConfig.put("window_seconds", "86400");
 
         // default value will be input url
         // in case of exception will return unauthorized url
