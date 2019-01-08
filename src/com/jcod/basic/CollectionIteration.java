@@ -2,6 +2,7 @@ package com.jcod.basic;
 
 
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
@@ -56,14 +57,48 @@ public class CollectionIteration {
         }
         ////////////////
         System.out.println("Array list change");
-        ArrayList a1=new ArrayList();
+        ArrayList<Integer> a1=new ArrayList();
         a1.add(5);
         a1.add(10);
         System.out.println(a1);
         a1=new ArrayList();
         a1.add(20);
         a1.add(25);
+        a1.add(26);
+        a1.add(35);
+        a1.add(45);
         System.out.println(a1);
+        for(Iterator<Integer> itr=a1.iterator();itr.hasNext();){
+            if(itr.next()==25){
+                itr.remove();
+            }
+
+            //a1.add(55);
+        }
+        System.out.println(a1);
+
+        for(Integer in:a1){
+            a1.remove(3);
+        }
+
+        System.out.println(a1);
+
+        Map<Integer, Integer> chm=new ConcurrentHashMap<>();
+        chm.put(1, 10);
+        chm.put(2, 50);
+        chm.put(3, 30);
+        chm.put(4, 90);
+        chm.put(7, 60);
+
+        System.out.println("Map Data========================");
+        for(Iterator<Map.Entry<Integer, Integer>> itr=chm.entrySet().iterator(); itr.hasNext();){
+            Map.Entry entry=itr.next();
+            System.out.println(entry);
+            System.out.println(entry.getKey());
+            System.out.println(entry.getValue());
+            System.out.println("============================");
+            chm.put(8,78);
+        }
 
 
     }

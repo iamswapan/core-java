@@ -10,7 +10,7 @@ import java.net.URL;
 /**
  * Created by ttnd on 21/11/18.
  */
-public class Curl {
+/*public class Curl {
     public static void main(String[] args) {
 
         try {
@@ -31,7 +31,7 @@ public class Curl {
 //            conn.setRequestProperty ("Authorization", basicAuth);
 
 //            String data =  "{\"format\":\"json\",\"pattern\":\"#\"}";
-             data = new JSONObject();
+             *//*data = new JSONObject();*//*
             OutputStreamWriter out = new OutputStreamWriter(conn.getOutputStream());
 //            out.write(data);
             out.close();
@@ -53,4 +53,4 @@ public class Curl {
 
     }
 
-}
+}*/
