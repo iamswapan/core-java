@@ -1,8 +1,7 @@
 package com.java8;
 
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Collectors;
 
 public class StreamTest1 {
@@ -29,5 +28,23 @@ public class StreamTest1 {
             System.out.println(e);
         });
         System.out.println(memberNames);
+
+        Map<String, String> serializedPageDtoMap=new HashMap<>();
+        serializedPageDtoMap.put("","");
+        ArrayList maplist=new ArrayList<String>(serializedPageDtoMap.values());
+        System.out.println("Map list========"+maplist);
+
+        EmployeePredicate emp1=new EmployeePredicate("Rahul", 25);
+        EmployeePredicate emp2=new EmployeePredicate("Sachin", 35);
+        EmployeePredicate emp3=new EmployeePredicate("Sourav", 15);
+        EmployeePredicate emp4=new EmployeePredicate("Laxman", 275);
+
+        List<EmployeePredicate> empList= Arrays.asList(emp1, emp2, emp3, emp4);
+
+        List<String> nameList= empList.stream().map(EmployeePredicate::getName).collect(Collectors.toList());
+        List<EmployeePredicate> empNameList= empList.stream()
+                .map(s->new EmployeePredicate().setName(s.getName()))
+                .collect(Collectors.toList());
+        System.out.println(empNameList);
     }
 }

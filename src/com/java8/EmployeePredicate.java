@@ -1,9 +1,13 @@
 package com.java8;
 
 
+import com.example.Employee;
+
 public class EmployeePredicate {
     private String name;
     private int age;
+
+    public EmployeePredicate(){}
 
     public EmployeePredicate(String name, int age){
         this.name=name;
@@ -14,8 +18,9 @@ public class EmployeePredicate {
         return name;
     }
 
-    public void setName(String name) {
+    public EmployeePredicate setName(String name) {
         this.name = name;
+        return this;
     }
 
     public int getAge() {
