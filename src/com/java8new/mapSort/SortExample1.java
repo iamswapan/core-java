@@ -24,6 +24,8 @@ public class SortExample1 {
         System.out.println("Main Map===================");
         map1.entrySet().forEach(System.out::println);
 
+
+
         Map<String, Integer> filterMap=map1.entrySet().stream()
                 .filter(e -> e.getValue() > 2)
                 .distinct()

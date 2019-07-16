@@ -18,6 +18,13 @@ public class HashMapVerification {
             System.out.println(entry.getKey()+"======="+entry.getValue());
         }
 
+        System.out.println("lambda==============");
+        test.forEach((k,v)->{
+            System.out.println((k+"====="+v));
+        });
+        System.out.println("stream==============");
+        test.entrySet().stream().forEach(e-> System.out.println(e.getKey()+"******"+e.getValue()));
+
         Set<Integer> keyset=test.keySet();
 
         System.out.println(keyset);

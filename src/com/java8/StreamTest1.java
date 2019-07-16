@@ -23,6 +23,8 @@ public class StreamTest1 {
         System.out.println("============================");
         System.out.println(filterName);
 
+        memberNames.stream().sorted().collect(Collectors.toList());
+
         memberNames.stream().sorted().forEach(e->{
             e=e+" test";
             System.out.println(e);

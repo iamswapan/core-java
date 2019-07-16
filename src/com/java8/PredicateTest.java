@@ -4,6 +4,7 @@ package com.java8;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Optional;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
@@ -19,6 +20,11 @@ public class PredicateTest {
         System.out.println(filterEmployees(employeePredicateList, isChild()));
         System.out.println(filterEmployees(employeePredicateList, isAdult()));
         System.out.println(filterEmployees(employeePredicateList, isGraterThenAge(70)));
+
+        ///////////////////
+        Optional<List<EmployeePredicate>> optEmp=Optional.of(employeePredicateList);
+        //optEmp.filter(isChild()).orElse(isAdult());
+        //////////////////
 
     }
 

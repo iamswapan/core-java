@@ -8,7 +8,7 @@ import java.util.Optional;
 @FunctionalInterface
 public interface FunctionalInterTest {
     public void first();
-//    public void   second();
+//    public void second();
 
     default void testDefault(){
         System.out.println("First default method");
@@ -23,9 +23,13 @@ public interface FunctionalInterTest {
 
 class FunctionalMain implements FunctionalInterface{
 
-   /*public void first(){
+   public void first(){
        System.out.println("================");
-   }*/
+   }
+
+   public void second(){
+
+   }
 
     @Override
     public Class<? extends Annotation> annotationType() {
