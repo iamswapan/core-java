@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
  */
 public class Exercise5 {
     public static void main(String[] args) {
-        List<Integer> list= Arrays.asList(1,2,3,4,5,6,7,8,9,10,11,12);
+        List<Integer> list= Arrays.asList(1,2,3,4,5,6,7);
         list.stream()
                 .filter(e-> e%2==0)
                 .forEach(System.out::println);
@@ -28,6 +28,12 @@ public class Exercise5 {
                         .filter(e -> e > 3)
                         .findFirst().get()
         );
+
+        System.out.println("*********************************");
+        System.out.println(list.stream().collect(Collectors.summingInt(e->e)));
+        System.out.println(list.stream().mapToInt(e->e).sum());
+        System.out.println(list.stream().map(e->e).reduce(0,(a,b)->a+b));
+        System.out.println(list.stream().map(e->e).reduce(0,Integer::sum));
     }
 
 }

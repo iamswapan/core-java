@@ -48,6 +48,8 @@ public class CompareSortCustom {
         /////////////////////// J*************** AVA 8 Comparator *************=================================
         Collections.sort(employeeList, (el1, el2)->(el1.getName().length()-el2.getName().length()));
 //        System.out.println("[annonyms comparator java8]:: name length::"+employeeList);
+        List<EmployeeCompare> tempList= employeeList.stream().sorted(Comparator.comparing(EmployeeCompare::getName).reversed()).collect(Collectors.toList());
+        System.out.println("Name comparator*************** JAVA8====" + tempList);
         Comparator<EmployeeCompare> ageCom=Comparator.comparing(EmployeeCompare::getAge).reversed();
         Collections.sort(employeeList, ageCom);
         System.out.println("Age Com JAVA8====" + employeeList);

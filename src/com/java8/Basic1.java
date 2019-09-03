@@ -77,9 +77,9 @@ public class Basic1 {
 
         ArrayList<Integer> ar=new ArrayList<>();
         ar.add(1);
+        ar.add(12);
         ar.add(2);
-        ar.add(2);
-        ar.add(2);
+        ar.add(15);
         ar.add(3);
         ar.add(4);
         ar.add(5);
@@ -87,9 +87,12 @@ public class Basic1 {
         ar.add(7);
         System.out.println("================="+ar);
 
+        System.out.println("sorted list========="+ar.stream().sorted((e1,e2)->e1-e2).collect(Collectors.toCollection(ArrayList::new)));
+        ar.sort((Integer e1,Integer e2)-> (e1-e2));
+
         HashSet hs=ar.stream().filter(v->v%2==0).collect(Collectors.toCollection(HashSet::new));
 
-        System.out.println("filter================="+ar);
+        /*System.out.println("filter================="+ar);
         System.out.println("filter================="+hs);
 
         System.out.println("partiation==========="+ar.stream().filter(e->e>2).collect(Collectors.partitioningBy(e->e>4)));
@@ -102,7 +105,7 @@ public class Basic1 {
         System.out.println("max="+ds.getMax());
         System.out.println("min="+ds.getMin());
         System.out.println("avg="+ds.getAverage());
-        System.out.println("count="+ds.getCount());
+        System.out.println("count="+ds.getCount());*/
     }
     public ArrayList setListValue(ArrayList al){
         al=new ArrayList<Integer>();
