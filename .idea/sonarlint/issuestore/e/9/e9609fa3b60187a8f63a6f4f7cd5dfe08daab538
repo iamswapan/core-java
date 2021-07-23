@@ -1,0 +1,18 @@
+
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ÎŒµÄýÿÿÿÿ
+nsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(í¡ì­úÿÿÿÿ8ì’Àûß.
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(±üó
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(óÍÿÜþÿÿÿÿ8Í¿Èûß.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ÿ·’¹ûÿÿÿÿ8üæÎûß.
+nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(í¡ì­úÿÿÿÿ8©Ñ©úß.
+osquid:S1192@"LDefine a constant instead of duplicating this literal "dd-MMM-yyyy" 4 times.(ÆÏôáùÿÿÿÿ8ì’Àûß.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(’Ô¾ÿÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(½²ÿü
+V
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(¼œä³8Ú¾ã÷ß.

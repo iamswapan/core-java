@@ -1,0 +1,29 @@
+
+Wsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(à¦ùy
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ¨«íıÿÿÿÿ
+dsquid:S2095J"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¬ÿŞŠ
+msquid:S2068"Q'PWD' detected in this expression, review this potentially hard-coded credential.(¡ä˜üÿÿÿÿ
+Nsquid:S1135z"2Complete the task associated to this TODO comment.(Ì›Áûÿÿÿÿ
+asquid:S2147u"ECombine this catch with the one at line 109, which has the same body.(¡Œßéûÿÿÿÿ
+?squid:S1148w"#Use a logger to log this exception.(µÎ¡øÿÿÿÿ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ÚÖÙøşÿÿÿÿ
+asquid:S2147}"ECombine this catch with the one at line 109, which has the same body.(ªÊÃ‹øÿÿÿÿ
+qsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(à¦ùy
+²%squid:RedundantThrowsDeclarationCheck6"|Remove the declaration of thrown exception 'java.security.InvalidKeyException' which is a subclass of 'java.lang.Exception'.(œË¾Şüÿÿÿÿ
+?squid:S1148s"#Use a logger to log this exception.(µÎ¡øÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(µÎ¡øÿÿÿÿ
+?squid:S1148o"#Use a logger to log this exception.(µÎ¡øÿÿÿÿ
+Nsquid:S1135r"2Complete the task associated to this TODO comment.(Ì›Áûÿÿÿÿ
+dsquid:S2095]"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(±ä‰²
+Nsquid:S1135v"2Complete the task associated to this TODO comment.(Ì›Áûÿÿÿÿ
+Nsquid:S1135~"2Complete the task associated to this TODO comment.(Ì›Áûÿÿÿÿ
+?squid:S1148{"#Use a logger to log this exception.(µÎ¡øÿÿÿÿ
+asquid:S2147q"ECombine this catch with the one at line 109, which has the same body.(í¤¡œúÿÿÿÿ
+asquid:S2147y"ECombine this catch with the one at line 109, which has the same body.(â›ºüÿÿÿÿ
+T
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ
+csquid:S00112="FDefine and throw a dedicated exception instead of using a generic one.(›Ö¤úÿÿÿÿ
+csquid:S001126"FDefine and throw a dedicated exception instead of using a generic one.(œË¾Şüÿÿÿÿ
+Usquid:S4719@"9Replace charset name argument with StandardCharsets.UTF_8(±¢û­øÿÿÿÿ
+Nsquid:S1135n"2Complete the task associated to this TODO comment.(Ì›Áûÿÿÿÿ
+squid:S1488`"eImmediately return this expression instead of assigning it to the temporary variable "bankPublicKey".(øìç©úÿÿÿÿ

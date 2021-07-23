@@ -1,0 +1,20 @@
+
+fsquid:S1858Y"O"joinedString" is already a string, there's no need to call "toString()" on it.(€–¹™
+^squid:S5361Q"HReplace this call to "replaceAll()" by a call to the "replace()" method.(è§ó8
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÖâŠéýÿÿÿÿ
+<squid:S21297" Remove this "String" constructor(«ß”Ðüÿÿÿÿ
+T
+squid:S106&"9Replace this use of System.out or System.err by a logger.(—ÀäÁüÿÿÿÿ
+gsquid:UselessImportCheck">Remove this unused import 'java.security.InvalidKeyException'.(ì£ð»ÿÿÿÿÿ
+bsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(á„ÄÈ
+[squid:UnusedPrivateMethod6"1Remove this unused private "encodeBase64" method.(€æ¾Ãûÿÿÿÿ
+zsquid:S1488G"^Immediately return this expression instead of assigning it to the temporary variable "header".( ÀªÖøÿÿÿÿ
+esquid:UselessImportCheck"<Remove this unused import 'javax.crypto.spec.SecretKeySpec'.(¹«è•üÿÿÿÿ
+<squid:S2129<" Remove this "String" constructor(«ß”Ðüÿÿÿÿ
+Usquid:S4719="9Replace charset name argument with StandardCharsets.UTF_8(¦»ÂÊøÿÿÿÿ
+@squid:S2140a")Use "java.util.Random.nextInt()" instead.(ÖáÜ¤
+csquid:UnusedPrivateMethodA"9Remove this unused private "encodeBase64UsingSHA" method.(ŸŸŽ¢ýÿÿÿÿ
+tsquid:S1488Q"^Immediately return this expression instead of assigning it to the temporary variable "realPK".(è§ó8
+Hsquid:S1068",Remove this unused "ALGO_AES" private field.(Ý›ÒÍÿÿÿÿÿ
+bsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(˜ã¤µ
+^squid:S5361Q"HReplace this call to "replaceAll()" by a call to the "replace()" method.(è§ó8

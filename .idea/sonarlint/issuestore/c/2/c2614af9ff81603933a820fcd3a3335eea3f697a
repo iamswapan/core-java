@@ -1,0 +1,8 @@
+
+\squid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ôÈã‚ÿÿÿÿÿ8ÃƒÇ¤ø-
+>squid:S2129" Remove this "String" constructor(¥Ýœ€8»¹Ç¤ø-
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(È­ì¾ûÿÿÿÿ8ÃƒÇ¤ø-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚é€Þûÿÿÿÿ8úûÈ¤ø-
+Ssquid:S4432"0Use Galois/Counter Mode (GCM/NoPadding) instead.(ø¾¢çýÿÿÿÿ8»¹Ç¤ø-
+Vsquid:S4719"9Replace charset name argument with StandardCharsets.UTF_8(‚ó…8ÃƒÇ¤ø-

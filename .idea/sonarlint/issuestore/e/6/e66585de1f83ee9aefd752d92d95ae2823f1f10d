@@ -1,0 +1,25 @@
+
+Jsquid:S1481"'Remove this unused "al" local variable.(¶áÃ‹ýÿÿÿÿ8ÜÌê„–/
+V
+squid:S1061"9Replace this use of System.out or System.err by a logger.(š˜È²8ó¥ú„–/
+bsquid:S2185"?Remove this computation of % 1, which always evaluates to zero.(¶áÃ‹ýÿÿÿÿ8“Èþ„–/
+dsquid:S21424"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ºòÍ†–/
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ð¬Òøÿÿÿÿ8ýÃÍ†–/
+Fsquid:S11485"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ºòÍ†–/
+Fsquid:S1604"(Make this anonymous inner class a lambda(ÚØ•¹8Å¿â„–/
+Usquid:S1854"7Remove this useless assignment to local variable "it1".(Ñ›ž‰8ýÃÍ†–/
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Á°”›úÿÿÿÿ8ÙŽâ…–/
+Dsquid:S1481/"&Remove this unused "b" local variable.(Ëæõå8„ÎùÛ/
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ÐíÜìüÿÿÿÿ8¹æù„–/
+Ysquid:S1854"6Remove this useless assignment to local variable "al".(¶áÃ‹ýÿÿÿÿ8ÜÌê„–/
+Ssquid:S1854/"5Remove this useless assignment to local variable "b".(Ëæõå8„ÎùÛ/
+7squid:S2153/"Remove the boxing of "a".(Ëæõå8È±ƒÜ/
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼«üm8Šû÷„–/
+jsquid:S3973:"GUse indentation to denote the code conditionally executed by this "if".(Œ¾•…ùÿÿÿÿ8µÕ¤†–/
+Ksquid:S1604+"(Make this anonymous inner class a lambda(’¯Ì¢ùÿÿÿÿ8ëõ„–/
+V
+squid:S106="9Replace this use of System.out or System.err by a logger.(ª¸ÝÈ8Éæú„–/
+Fsquid:S1481"(Remove this unused "it1" local variable.(Ñ›ž‰8ýÃÍ†–/

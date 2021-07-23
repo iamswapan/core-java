@@ -1,0 +1,17 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(—åÃ8„Î‹Úç.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(êİá8¯Úç.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿ8ÏüäÚç.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯ô¢ô8ü‹»Å‘/
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8›«ÒÚç.
+dsquid:UselessImportCheck"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8ñÆĞÚç.
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8»ÅÚÚç.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡öùØ8ìßŒÚç.
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¡…ÛÚç.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(î€ëüÿÿÿÿ8çê‚Úç.

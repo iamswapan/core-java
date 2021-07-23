@@ -1,0 +1,13 @@
+
+dsquid:S2259/"HA "NullPointerException" could be thrown; "keyFactory" is nullable here.(ªÚ¶Şøÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+`squid:S2147"DCombine this catch with the one at line 29, which has the same body.(½å€ùûÿÿÿÿ
+T
+squid:S106L"9Replace this use of System.out or System.err by a logger.(íá£ıÿÿÿÿ
+T
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ÅºĞ„ÿÿÿÿÿ
+T
+squid:S106P"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ

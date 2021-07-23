@@ -1,0 +1,10 @@
+
+isquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(€ŒÚ÷8Âæçî‘/
+ksquid:UselessImportCheck";Remove this unused import 'java.util.stream.StreamSupport'.(ö°€ÿÿÿÿÿ8Ã××í‘/
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ý˜©Ä8Úú™î‘/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëÍ¦Íúÿÿÿÿ8 ÿçî‘/
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(ý˜©Ä8«‘Èî‘/
+nsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ùÀ²¦ýÿÿÿÿ8°ž î‘/
+“"squid:SwitchLastCaseIsDefaultCheck"YComplete cases by adding the missing enum constants or add a default case to this switch.(ùÀ²¦ýÿÿÿÿ8°ž î‘/

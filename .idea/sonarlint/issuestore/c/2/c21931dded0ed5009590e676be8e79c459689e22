@@ -1,0 +1,27 @@
+
+Msquid:S1481"*Remove this unused "token" local variable.(ÅÖ’­ùÿÿÿÿ8ıåÙ Î.
+\squid:S1854"9Remove this useless assignment to local variable "token".(ÅÖ’­ùÿÿÿÿ8ıåÙ Î.
+csquid:UselessImportCheck"8Remove this unused import 'java.util.function.Function'.(»³Í8Ïû®‹É.
+Rsquid:S1611"/Remove the parentheses around the "a" parameter(¾¢ıÿÿÿÿ8Ïû®‹É.
+isquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(Õ¯Ğç8¹ªÙ Î.
+[squid:S1197"8Move the array designator from the variable to the type.(ÅÖ’­ùÿÿÿÿ8âçÙŸÎ.
+Ysquid:S1854";Remove this useless assignment to local variable "variant".(ãÉ°8ÑíÍ¯/
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¦’İĞ¨/
+Jsquid:S1481",Remove this unused "variant" local variable.(ãÉ°8ÑíÍ¯/
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨Š¥Âşÿÿÿÿ8×ŸÏ›Î.
+V
+squid:S106""9Replace this use of System.out or System.err by a logger.(®öóÃ8Î³öŸÎ.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÅÁŒäÿÿÿÿÿ8ıåÙ Î.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾¢ıÿÿÿÿ8Ïû®‹É.
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ÚèÕ‘ÿÿÿÿÿ8¦’İĞ¨/
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ÌÅ©Şÿÿÿÿÿ8·±éŸÎ.
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Ÿ¨…Æ8Î³öŸÎ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıë‡şÿÿÿÿ8Æ¼Ï›Î.
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(¬˜ı¶8ÈÓ¯àĞ.

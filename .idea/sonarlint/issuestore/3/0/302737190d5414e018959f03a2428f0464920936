@@ -1,0 +1,18 @@
+
+_squid:S1192"HDefine a constant instead of duplicating this literal "SHA-256" 3 times.(ûë¤õ
+=squid:S1659"!Declare "sb3" on a separate line.(šÙ£—úÿÿÿÿ
+nsquid:S00117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÕøÄøÿÿÿÿ
+{squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(šÙ£—úÿÿÿÿ
+Fsquid:S00108G")Either remove or fill this block of code.(ñ“Š±üÿÿÿÿ
+?squid:S11488"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+{squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(šÙ£—úÿÿÿÿ
+{squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(šÙ£—úÿÿÿÿ
+Dsquid:S1481".Remove this unused "secretKey" local variable.(äÖÇ5
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(ÃÞÉ”
+°%squid:RedundantThrowsDeclarationCheck"zRemove the declaration of thrown exception 'java.security.InvalidKeyException', as it cannot be thrown from method's body.(ÿÏî†þÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ä÷¬Æÿÿÿÿÿ
+nsquid:S00117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ÒÇªúÿÿÿÿ
+³%squid:RedundantThrowsDeclarationCheck"}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(ÿÏî†þÿÿÿÿ
+fsquid:S00100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÕÉ‡
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒîâèøÿÿÿÿ
+=squid:S1659"!Declare "sb2" on a separate line.(šÙ£—úÿÿÿÿ

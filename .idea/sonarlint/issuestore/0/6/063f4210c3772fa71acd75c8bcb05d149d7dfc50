@@ -1,0 +1,22 @@
+
+O
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ë÷ùÖ
+rsquid:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ª§–œüÿÿÿÿ
+gsquid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.(´ñãûúÿÿÿÿ
+U"squid:SwitchLastCaseIsDefaultCheckN""Add a default case to this switch.(øÀïýÿÿÿÿ
+T
+squid:S106T"9Replace this use of System.out or System.err by a logger.(ÐÞþÐýÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(±§¹ýÿÿÿÿ
+O
+squid:S106["9Replace this use of System.out or System.err by a logger.(·–öþ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(êŽÍó
+Usquid:S3400v"9Remove this method and declare a constant for this value.(ƒÄÖÕýÿÿÿÿ
+qsquid:UselessImportCheck"FRemove this unused import 'java.util.concurrent.CopyOnWriteArrayList'.(ý¦ü8Ï‹Ù„–/
+Asquid:S1172`"*Remove this unused method parameter "val".(Ù¬Þ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ðøÙ¥
+U
+squid:S106*"9Replace this use of System.out or System.err by a logger.(šÆR8À¹É³”/
+nsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(ºÊÿ®üÿÿÿÿ8¥ÉÄ³”/

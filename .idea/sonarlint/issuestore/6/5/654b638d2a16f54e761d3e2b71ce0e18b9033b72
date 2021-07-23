@@ -1,0 +1,115 @@
+
+Fsquid:S1148X"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µ×¾Ýÿ.
+{squid:S1488Å"\Immediately return this expression instead of assigning it to the temporary variable "cert".(ß”±Ó8µ×¾Ýÿ.
+bsquid:UnusedPrivateMethodà"5Remove this unused private "getMockPublicKey" method.(®ªÉ¸8µ×¾Ýÿ.
+W
+squid:S106 "9Replace this use of System.out or System.err by a logger.(½û±³8µ×¾Ýÿ.
+Zsquid:S1068 "<Remove this unused "RSA_ENCRYPTION_ALOGRITHM" private field.(û§§À8µ×¾Ýÿ.
+nsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(ÎÞÞ·ýÿÿÿÿ8Ê€Æ†/
+\
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(Ó¨Ìºýÿÿÿÿ8µ×¾Ýÿ.
+fsquid:UnusedPrivateMethod¥"4Remove this unused private "decryptKeyAtFin" method.(ŸÀ•Úýÿÿÿÿ8µ×¾Ýÿ.
+V
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(Åêµj8µ×¾Ýÿ.
+Gsquid:S1148Ì"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µ×¾Ýÿ.
+Fsquid:S1148j"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µ×¾Ýÿ.
+W
+squid:S106Þ"9Replace this use of System.out or System.err by a logger.(ÝìÁñ8µ×¾Ýÿ.
+]squid:S3400á"9Remove this method and declare a constant for this value.(ÑõÂ¹úÿÿÿÿ8µ×¾Ýÿ.
+Gsquid:S1148Û"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µ×¾Ýÿ.
+W
+squid:S106Ü"9Replace this use of System.out or System.err by a logger.(í°Ìë8µ×¾Ýÿ.
+\
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(ÇË—ëþÿÿÿÿ8µ×¾Ýÿ.
+Psquid:S1068+"2Remove this unused "MSIL_CERT_PATH" private field.(’ÙÐ‰8µ×¾Ýÿ.
+tsquid:S2068)"Q'PWD' detected in this expression, review this potentially hard-coded credential.(‘ÿ£üÿÿÿÿ8µ×¾Ýÿ.
+‹squid:S4144~"hUpdate this method so that its implementation is not identical to "prepareDigitalSignature" on line 112.(ñ–ƒûÿÿÿÿ8µ×¾Ýÿ.
+Gsquid:S1148½"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µ×¾Ýÿ.
+ssquid:S1192Þ"TDefine a constant instead of duplicating this literal "encrypted payload: " 4 times.(ÝìÁñ8µ×¾Ýÿ.
+Fsquid:S1148F"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µ×¾Ýÿ.
+ksquid:S00112È"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8µ×¾Ýÿ.
+Gsquid:S1148œ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µ×¾Ýÿ.
+Gsquid:S1148«"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µ×¾Ýÿ.
+W
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(™„ÚÌ8µ×¾Ýÿ.
+xsquid:S1192à"TDefine a constant instead of duplicating this literal "digital signature: " 4 times.(Ë¥üªùÿÿÿÿ8µ×¾Ýÿ.
+W
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(ô´€Û8µ×¾Ýÿ.
+\
+squid:S106ð"9Replace this use of System.out or System.err by a logger.(«äŽ„ýÿÿÿÿ8µ×¾Ýÿ.
+Gsquid:S1148»"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µ×¾Ýÿ.
+\
+squid:S106”"9Replace this use of System.out or System.err by a logger.(î÷ù±úÿÿÿÿ8µ×¾Ýÿ.
+Gsquid:S1148‡"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µ×¾Ýÿ.
+csquid:UnusedPrivateMethodä"6Remove this unused private "getMockPrivateKey" method.(ðýÍ”8µ×¾Ýÿ.
+osquid:CommentedOutCodeLineý"<This block of commented-out lines of code should be removed.(ÕÙÃ—ùÿÿÿÿ8µ×¾Ýÿ.
+\
+squid:S106ì"9Replace this use of System.out or System.err by a logger.(¤²Ðåúÿÿÿÿ8µ×¾Ýÿ.
+W
+squid:S106™"9Replace this use of System.out or System.err by a logger.(ýî„¹8µ×¾Ýÿ.
+osquid:S1192ß"PDefine a constant instead of duplicating this literal "encrypted Key: " 4 times.(ô´€Û8µ×¾Ýÿ.
+\
+squid:S106ž"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8µ×¾Ýÿ.
+jsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(ÔÂÛú8õ“˜†/
+jsquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(˜Ê‡‘8œÆæ§ƒ/
+Gsquid:S1148®"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µ×¾Ýÿ.
+W
+squid:S106ë"9Replace this use of System.out or System.err by a logger.(ô´€Û8µ×¾Ýÿ.
+V
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(Åêµj8µ×¾Ýÿ.
+W
+squid:S106ß"9Replace this use of System.out or System.err by a logger.(ô´€Û8µ×¾Ýÿ.
+_squid:S1075%"ARefactor your code to get this URI from a customizable parameter.(ë‹Ýò8µ×¾Ýÿ.
+\squid:S1197Ì"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8µ×¾Ýÿ.
+\
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(ƒ¹ÄÝùÿÿÿÿ8µ×¾Ýÿ.
+W
+squid:S106’"9Replace this use of System.out or System.err by a logger.(ðÔ‘¬8µ×¾Ýÿ.
+]squid:UnusedPrivateMethodÑ"+Remove this unused private "status" method.(úèÝùÿÿÿÿ8µ×¾Ýÿ.
+W
+squid:S106ê"9Replace this use of System.out or System.err by a logger.(“Ž·¾8µ×¾Ýÿ.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(šõ·òÿÿÿÿÿ8ÃÄ—†/
+Fsquid:S1148y"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8µ×¾Ýÿ.
+\
+squid:S106à"9Replace this use of System.out or System.err by a logger.(Ë¥üªùÿÿÿÿ8µ×¾Ýÿ.
+isquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(‘ƒâ[8µ×¾Ýÿ.
+W
+squid:S106á"9Replace this use of System.out or System.err by a logger.(ðÔ‘¬8µ×¾Ýÿ.
+\
+squid:S106Ý"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8µ×¾Ýÿ.
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(í°Ìë8µ×¾Ýÿ.
+W
+squid:S106è"9Replace this use of System.out or System.err by a logger.(ýî„¹8µ×¾Ýÿ.
+W
+squid:S106ï"9Replace this use of System.out or System.err by a logger.(½û±³8µ×¾Ýÿ.
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÊËéº8µ×¾Ýÿ.
+nsquid:UnusedPrivateMethodÃ"ARemove this unused private "prepareDigitalSignatureAtFin" method.(ÏÜ¡æ8µ×¾Ýÿ.
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(ô´€Û8µ×¾Ýÿ.
+rsquid:UnusedPrivateMethod³"@Remove this unused private "verifyDigitalSignatureAtFin" method.(í©‡Áùÿÿÿÿ8µ×¾Ýÿ.
+Hsquid:S1068#"+Remove this unused "SHA_256" private field.(áãÓ%8µ×¾Ýÿ.
+W
+squid:S106ñ"9Replace this use of System.out or System.err by a logger.(Ââó´8µ×¾Ýÿ.
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÝìÁñ8µ×¾Ýÿ.
+\
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(Ë¥üªùÿÿÿÿ8µ×¾Ýÿ.
+\
+squid:S106•"9Replace this use of System.out or System.err by a logger.(Ó¨Ìºýÿÿÿÿ8µ×¾Ýÿ.
+osquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(”¸áÉÿÿÿÿÿ8µ×¾Ýÿ.
+_squid:S1075'"ARefactor your code to get this URI from a customizable parameter.(âöïÜ8µ×¾Ýÿ.
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÜÂ†”8Ø‘ßÌ…/
+jsquid:CommentedOutCodeLineÎ"<This block of commented-out lines of code should be removed.(¯¸›µ8µ×¾Ýÿ.
+\
+squid:S106Ž"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8µ×¾Ýÿ.
+\
+squid:S106í"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8µ×¾Ýÿ.
+\
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(ƒ¹ÄÝùÿÿÿÿ8µ×¾Ýÿ.
+]squid:S3400å"9Remove this method and declare a constant for this value.( üÁúÿÿÿÿ8µ×¾Ýÿ.
+W
+squid:S106›"9Replace this use of System.out or System.err by a logger.(¾ˆ­å8µ×¾Ýÿ.
+\
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(î÷ù±úÿÿÿÿ8µ×¾Ýÿ.

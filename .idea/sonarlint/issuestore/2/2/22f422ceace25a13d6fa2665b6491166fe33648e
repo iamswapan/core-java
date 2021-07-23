@@ -1,0 +1,17 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(×î‚éúÿÿÿÿ8‘ö–¥á.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.( œÔÿ8ğÖá¤á.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(±Ø‹ò8Ú´Ë¥á.
+[squid:S1197%"8Move the array designator from the variable to the type.(­é‘±ùÿÿÿÿ8¾óƒ¥á.
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(Ñùòÿÿÿÿÿ8ˆ³Œ¦á.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(É™â8áòü¤á.
+bsquid:HiddenFieldCheck"4Rename "x" which hides the field declared at line 7.(›ü«Íøÿÿÿÿ8œ—¥á.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(”¾Âğ8¾óƒ¥á.
+^squid:HiddenFieldCheck"5Rename "x" which hides the field declared at line 11.(”«²Ï8éÜ¥á.
+Psquid:S1135"2Complete the task associated to this TODO comment.(´şò8á‘¦á.

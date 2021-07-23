@@ -1,0 +1,35 @@
+
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Öéé½8Îš¬ó”.
+gsquid:S2147c"DCombine this catch with the one at line 95, which has the same body.(“³Ûİüÿÿÿÿ8ÆÏ€†ù.
+isquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(‘™‰´8Ÿ¦ö˜/
+Ssquid:S4432R"0Use Galois/Counter Mode (GCM/NoPadding) instead.(ø¾¢çıÿÿÿÿ8”ĞµÀ.
+[
+squid:S106n"9Replace this use of System.out or System.err by a logger.(Õ÷¥ ÿÿÿÿÿ8ÆÏ€†ù.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¼œ·ùÿÿÿÿ8”ĞµÀ.
+Fsquid:S1148b"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÆÏ€†ù.
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(½¯¹½
+esquid:S00112F"FDefine and throw a dedicated exception instead of using a generic one.(Éãî³8”ĞµÀ.
+‚squid:S1488U"dImmediately return this expression instead of assigning it to the temporary variable "decryptedStr".(Ş‰‡ş8”ĞµÀ.
+V
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ƒ·à8”ĞµÀ.
+nsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(¤ä÷“ÿÿÿÿÿ8”ĞµÀ.
+Ksquid:S14810"-Remove this unused "respDecr" local variable.(Ÿ Ä¯8´­ö˜/
+Zsquid:S18540"<Remove this useless assignment to local variable "respDecr".(Ÿ Ä¯8´­ö˜/
+Wsquid:S4719U"9Replace charset name argument with StandardCharsets.UTF_8(Ş‰‡ş8”ĞµÀ.
+psquid:S00117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äŒ¨8ÆÏ€†ù.
+Fsquid:S1148`"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÆÏ€†ù.
+Fsquid:S1148A"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8”ĞµÀ.
+V
+squid:S1061"9Replace this use of System.out or System.err by a logger.(‡ËÆ¢8ÆÏ€†ù.
+>squid:S1659" Declare "s2" on a separate line.(Ÿó˜¸8Îš¬ó”.
+isquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(šÌ»’8ú–¯ÏÔ.
+nsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(¡©œ—üÿÿÿÿ8ÆÏ€†ù.
+[
+squid:S106g"9Replace this use of System.out or System.err by a logger.(Õ÷¥ ÿÿÿÿÿ8ÆÏ€†ù.
+Osquid:S1481",Remove this unused "dirFlag" local variable.(ç¡à®üÿÿÿÿ8Îš¬ó”.
+\squid:S4719J"9Replace charset name argument with StandardCharsets.UTF_8(ôÈã‚ÿÿÿÿÿ8”ĞµÀ.
+V
+squid:S106k"9Replace this use of System.out or System.err by a logger.(ç˜ú”8ÆÏ€†ù.
+Fsquid:S1148d"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÆÏ€†ù.
+asquid:S2147a"DCombine this catch with the one at line 95, which has the same body.(ÿÒ„p8ÆÏ€†ù.

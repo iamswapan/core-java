@@ -1,0 +1,4 @@
+
+8squid:S2129"!Remove this "Integer" constructor(€›÷‹
+`squid:S2153"IRemove the boxing to "Integer"; The argument is already of the same type.(€›÷‹
+Wsquid:CallToDeprecatedMethod"/Remove this use of "Integer"; it is deprecated.(€›÷‹
