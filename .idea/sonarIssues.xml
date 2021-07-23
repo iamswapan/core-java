@@ -2758,6 +2758,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/akamai/airtel/AkamaiHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/bank/encr/DigitalSign.java">
           <value>
             <set />
@@ -2818,6 +2823,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/com/example/compo/BeanInitialization.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/item/Item.java">
           <value>
             <set />
@@ -2839,6 +2849,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/com/item/Raw.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/java8/Basic1.java">
           <value>
             <set />
           </value>
@@ -2894,6 +2909,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/com/java8new/predicate/PredicateJoining.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/jcod/basic/StaticExample.java">
           <value>
             <set />
           </value>
