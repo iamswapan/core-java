@@ -85,6 +85,7 @@ public class Basic1 {
         ar.add(5);
         ar.add(6);
         ar.add(7);
+        ar.add(51);
         System.out.println("================="+ar);
 
         HashSet hs=new HashSet();
